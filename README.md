@@ -12,7 +12,8 @@ An end-to-end Automated ETL (Extract, Transform, Load) Pipeline project that ext
 
 *(The chart below displays the final selling prices of global currencies extracted directly from the database.)*
 
-![Power BI Dashboard](powerbi_dashboard.png)
+![Power BI Dashboard](<img width="1600" height="1141" alt="TCMB_Gercek_Kurlar" src="https://github.com/user-attachments/assets/7d1981a9-30ab-4325-bce4-f44b98d828e5" />
+)
 
 ## ⚙️ How It Works
 
